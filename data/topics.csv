@@ -1,0 +1,42 @@
+lang,slug,title,course,format
+en,machine-learning,Machine learning,Machine Learning,pdf
+en,gradient-descent,Gradient descent,Machine Learning,md
+en,overfitting,Overfitting,Machine Learning,pdf
+en,decision-tree-learning,Decision tree learning,Machine Learning,md
+en,random-forest,Random forest,Machine Learning,pdf
+en,support-vector-machine,Support vector machine,Machine Learning,md
+en,k-means-clustering,K-means clustering,Machine Learning,pdf
+en,principal-component-analysis,Principal component analysis,Machine Learning,md
+en,backpropagation,Backpropagation,Machine Learning,pdf
+en,convolutional-neural-network,Convolutional neural network,Machine Learning,md
+en,transformer,Transformer (deep learning),Machine Learning,pdf
+en,cross-validation,Cross-validation (statistics),Machine Learning,md
+en,precision-and-recall,Precision and recall,Machine Learning,pdf
+en,reinforcement-learning,Reinforcement learning,Machine Learning,md
+fr,systeme-exploitation,Système d'exploitation,Systèmes d'exploitation et bases de données,pdf
+fr,ordonnancement,Ordonnancement (informatique),Systèmes d'exploitation et bases de données,md
+fr,memoire-virtuelle,Mémoire virtuelle,Systèmes d'exploitation et bases de données,pdf
+fr,interblocage,Interblocage,Systèmes d'exploitation et bases de données,md
+fr,processus,Processus (informatique),Systèmes d'exploitation et bases de données,pdf
+fr,thread,Thread (informatique),Systèmes d'exploitation et bases de données,md
+fr,semaphore,Sémaphore (informatique),Systèmes d'exploitation et bases de données,pdf
+fr,base-de-donnees-relationnelle,Base de données relationnelle,Systèmes d'exploitation et bases de données,md
+fr,sql,Structured Query Language,Systèmes d'exploitation et bases de données,pdf
+fr,forme-normale,Forme normale (bases de données relationnelles),Systèmes d'exploitation et bases de données,md
+fr,transaction,Transaction informatique,Systèmes d'exploitation et bases de données,pdf
+fr,proprietes-acid,Propriétés ACID,Systèmes d'exploitation et bases de données,md
+fr,index-base-de-donnees,Index (base de données),Systèmes d'exploitation et bases de données,pdf
+fr,algebre-relationnelle,Algèbre relationnelle,Systèmes d'exploitation et bases de données,md
+ar,shabakat-hasoub,شبكة حاسوب,الشبكات والأمن والخوارزميات,pdf
+ar,namudhaj-osi,نموذج الربط البيني للأنظمة المفتوحة,الشبكات والأمن والخوارزميات,md
+ar,tcp,بروتوكول التحكم بالإرسال,الشبكات والأمن والخوارزميات,pdf
+ar,ip,بروتوكول الإنترنت,الشبكات والأمن والخوارزميات,md
+ar,dns,نظام أسماء النطاقات,الشبكات والأمن والخوارزميات,pdf
+ar,ilm-al-taamiya,علم التعمية,الشبكات والأمن والخوارزميات,md
+ar,jidar-himaya,جدار حماية (حوسبة),الشبكات والأمن والخوارزميات,pdf
+ar,khawarizmiya,خوارزمية,الشبكات والأمن والخوارزميات,md
+ar,binyat-bayanat,بنية بيانات,الشبكات والأمن والخوارزميات,pdf
+ar,http,بروتوكول نقل النصوص الترابطية,الشبكات والأمن والخوارزميات,md
+ar,unwan-ip,عنوان بروتوكول الإنترنت,الشبكات والأمن والخوارزميات,pdf
+ar,shabaka-mahalliya,شبكة محلية,الشبكات والأمن والخوارزميات,md
+ar,dallat-talbid,دالة تلبيد,الشبكات والأمن والخوارزميات,pdf
